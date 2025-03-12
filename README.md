@@ -46,7 +46,7 @@ Flappy Bird Game is a classic arcade game developed using Pygame, a popular Pyth
 
 **Contributors:**
 
-- [Abhigouda]
+- [siddappa]
 
 **Acknowledgments:**
 
